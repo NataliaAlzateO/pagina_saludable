@@ -74,8 +74,8 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 98vh;
-  background-image: url(../images/hero.jpg);
+  height: 100vh;
+  background-image: url(../images/Yoga.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
