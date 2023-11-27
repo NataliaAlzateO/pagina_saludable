@@ -242,7 +242,7 @@ a:focus {
   margin-right: auto;
   padding: 25px 30px;
   background-image: url(../images/playa.jpg);
-  background-size: auto 100%;
+  background-size: auto 80%;
   background-color: #fff;
   background-position: center;
   background-repeat: no-repeat;
@@ -440,19 +440,19 @@ a:focus {
   min-width: 225px;
   min-height: 225px;
   border-radius: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(#afad04), to(#5da802));
-  background: linear-gradient(to right, #afad04, #5da802);
+  background: -webkit-gradient(linear, left top, right top, from(#04a9af), to(#028fa8));
+  background: linear-gradient(to right, #00c3ca, #02a3a8);
   margin-right: 15px;
 }
 
 .client_section .img_box img {
-  width: 75%;
+  width: 100%;
 }
 
 .client_section .detail_box {
   padding: 25px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#afad04), to(#5da802));
-  background: linear-gradient(to bottom, #afad04, #5da802);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0423af), to(#0423af));
+  background: linear-gradient(to bottom, #048daf, #02a3a8);
   color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -495,17 +495,17 @@ a:focus {
 }
 
 .client_section .carousel-indicators li.active {
-  background-color: #46a102;
+  background-color: #0296a1;
 }
 
 .info_section {
-  background-image: url(../images/info-bg.jpg);
+  background-image: url(../images/noche.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
 
 .info_section .logo-box {
-  width: 200px;
+  width: 100px;
   margin: 0 auto 75px auto;
 }
 
@@ -587,6 +587,7 @@ a:focus {
 .footer_section a {
   color: #292929;
 }
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
